@@ -1,8 +1,9 @@
 # Ready for Positive Innovation
 ## Quantum Computing Workshop Setup Guide
 ### Talan Tunisia
+![logo](https://github.com/user-attachments/assets/da01bacf-e5fb-4d02-b382-7809c6efc4b0)
 
-![Talan Tunisia Logo]
+
 
 ## 🌟 Welcome Beginners!
 This workshop is designed for beginners - no prior experience needed! We'll explore quantum computing together from scratch.
