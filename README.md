@@ -84,7 +84,7 @@ pip install qiskit==0.39.0
 ## 📞 Need Help?
 - Take screenshots of errors
 - Note which step failed
-- Contact workshop organizers
+- Contact workshop organizers(ahmed.ben-elswayeh@talan.com,alaa.harroum@talan.com)
 
 ## 🎯 Workshop Preparation Complete When:
 - [✓] IBM Quantum account created
